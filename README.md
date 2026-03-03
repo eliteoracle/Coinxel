@@ -28,18 +28,6 @@ The report covers **8 evaluation categories**, **50+ features**, and includes a 
 
 ---
 
-## 📂 File Structure
-
-```
-📦 repository root
- ┣ 📄 COINXEL_vs_CoinGecko_vs_CMC_EN.html   ← Main comparison report (English)
- ┗ 📄 README.md                              ← This file
-```
-
-> **No build step required.** Open the `.html` file directly in any modern browser — no server, no dependencies, no install.
-
----
-
 ## 🎯 What's Inside the Report
 
 ### 1. 📊 Overall Score Scorecard
