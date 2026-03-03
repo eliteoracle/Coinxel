@@ -191,57 +191,6 @@ Visual bar-chart matrix comparing all three platforms across every category with
 
 ---
 
-## 🚀 How to Use
-
-### Option 1 — Open Locally
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Open the file in your browser
-open COINXEL_vs_CoinGecko_vs_CMC_EN.html
-# or on Windows
-start COINXEL_vs_CoinGecko_vs_CMC_EN.html
-```
-
-### Option 2 — GitHub Pages
-Enable GitHub Pages on your repository to host this report as a live web page:
-1. Go to **Settings → Pages**
-2. Set source to **main branch / root**
-3. Your report will be live at `https://your-username.github.io/your-repo-name/COINXEL_vs_CoinGecko_vs_CMC_EN.html`
-
-### Option 3 — Direct Preview
-You can also use any online HTML previewer or drag-and-drop the file into your browser.
-
----
-
-## 🛠️ Tech Stack
-
-| Technology | Purpose |
-|---|---|
-| **HTML5** | Document structure |
-| **CSS3** (custom properties, grid, flexbox) | Layout & styling |
-| **Google Fonts** — Inter & Space Grotesk | Typography |
-| **Vanilla JavaScript** | No JS used — fully static |
-
-> This report is a **pure static HTML file** — no frameworks, no bundlers, no backend required. It can be hosted on any static hosting service (GitHub Pages, Netlify, Vercel, S3, etc.).
-
----
-
-## 🎨 Design System
-
-| Variable | Value | Usage |
-|---|---|---|
-| `--coinxel` | `#00d4ff` | COINXEL brand color (cyan) |
-| `--gecko` | `#8dc63f` | CoinGecko brand color (green) |
-| `--cmc` | `#3861fb` | CoinMarketCap brand color (blue) |
-| `--bg` | `#0b0b18` | Page background (near-black) |
-| `--yes` | `#22c55e` | Fully available indicator |
-| `--no` | `#ef4444` | Not available indicator |
-| `--partial` | `#f59e0b` | Partial availability indicator |
-
----
-
 ## 📊 Score Summary
 
 | Category | COINXEL | CoinGecko | CMC |
@@ -258,19 +207,9 @@ You can also use any online HTML previewer or drag-and-drop the file into your b
 
 ---
 
-## 📝 Data Sources
-
-- [CoinGecko](https://www.coingecko.com) — public documentation & feature list
-- [CoinMarketCap](https://coinmarketcap.com) — public documentation & feature list
-- [DexScreener](https://dexscreener.com) — DEX data reference
-- [DefiLlama](https://defillama.com) — DeFi TVL & bridge volume data
-- Public documentation and platform feature pages as of **March 2025**
-
----
-
 ## ⚠️ Disclaimer
 
-> This report was created for **internal Coinxel analysis purposes**. It is not officially affiliated with CoinGecko or CoinMarketCap. All scores and assessments represent the author's evaluation based on publicly available feature information as of March 2025 and may not reflect current platform states.
+> This report was created for **internal Coinxel analysis purposes**. It is not officially affiliated with CoinGecko or CoinMarketCap. All scores and assessments represent the author's evaluation based on publicly available feature information as of March 2026 and may not reflect current platform states.
 
 ---
 
@@ -281,5 +220,5 @@ This project is open for reference and educational purposes. Feel free to fork a
 ---
 
 <p align="center">
-  Made with ⚡ by <strong>COINXEL</strong> · <em>Professional Platform Comparison 2025</em>
+  Made with ⚡ by <strong>COINXEL</strong> · <em>Professional Platform Comparison 2026</em>
 </p>
